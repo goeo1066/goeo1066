@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 ---
-
+```text
 - Human-Readable Source Code
 - Understandable Binary Size
 - Lower and Stable RAM Usage 
@@ -15,7 +15,7 @@
 - Optimized & Light CPU Load  
 - Non-Blocking Long-Term Job
 - Clean UI and Good UX, AI-X
-
+```
 <!---
 goeo1066/goeo1066 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
